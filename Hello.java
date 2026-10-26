@@ -8,6 +8,6 @@ public class Hello {
 
 	public static void presentCode() {
 
-		System.out.println("THis is my implem");
+		System.out.println("THis is my implementation");
 	}
 }
