@@ -5,4 +5,9 @@ public class Hello {
 		System.out.println("Class 12!");
 
 	}
+
+	public static void presentCode() {
+
+		System.out.println("THis is my implem");
+	}
 }
